@@ -26,7 +26,7 @@
   <img src="https://github.com/eckim97/eckim97/blob/output/github-contribution-grid-snake.svg">
 </div>
 
-<div align="center" style="margin-bottom: 20px;">
+<div align="center" style="margin-top: 20px; margin-bottom: 20px;">
   <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=eckim97&show_icons=true&theme=holi" width = "49%" height="130%" />
 </div>
 
