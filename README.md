@@ -7,9 +7,6 @@
 
  새로운 기술을 배우고 적용하는데 주저하지 않으며,  원하는 결과가 나올 때까지 끈기 있게 노력합니다. 이런 끈기와 집요함은 저의 큰 장점입니다.
 
-## 💻 Work experience
-티에이케이정보시스템 (2022.03 ~ 2024.03)
-
 ## ⭐ Skill
 ![](https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white")
 ![](https://img.shields.io/badge/MSSQL-cc2927?style=flat&logo=microsoftsqlserver&logoColor=white")
