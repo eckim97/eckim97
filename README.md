@@ -5,9 +5,7 @@
     <a href="https://eunchaan.tistory.com/">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
-  
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=easyhomputer&theme=default)](https://eunchaan.tistory.com/)
-</div><br>
+</div>
 
 ## ⭐ Skill
 ![](https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white")
