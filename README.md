@@ -21,3 +21,7 @@
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
+
+<div align="center">
+  <img src="https://github.com/eckim97/eckim97/blob/output/github-contribution-grid-snake.svg">
+</div>
