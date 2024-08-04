@@ -26,4 +26,3 @@
   <img src="https://github.com/eckim97/eckim97/blob/output/github-contribution-grid-snake.svg">
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eckim97&show_icons=true&theme=radical)
