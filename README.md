@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Eunchan's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20to%20Eunchan's%20GitHub%20👋&capsule%20render&fontSize=90)
 
 ## 🙌 Instruction
  2년차 개발자로 솔루션 제공 업체에서 웹 개발과 ERP 개발을 담당했습니다.
