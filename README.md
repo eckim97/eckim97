@@ -1,7 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Eunchan's%20GitHub%20👋&animation=twinkling&fontSize=30&fontAlignY=40&fontAlign=70&height=250)
-<a href="https://eunchaan.tistory.com/" target="_blank">
-<img src="https://img.shields.io/badge/Blog-181717.svg?style=flat-square&logo=GitHub&logoColor=white"/>
-</a>
+
+## 💻 Tech Blog
+<div style="display:flex; flex-direction:row;">
+    <a href="https://eunchaan.tistory.com/">
+        <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
+    </a>
+  
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=easyhomputer&theme=default)](https://eunchaan.tistory.com/)
+</div><br>
 
 ## ⭐ Skill
 ![](https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white")
