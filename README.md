@@ -22,11 +22,11 @@
 <img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
 
-<div align="center">
+<div align="center" style="margin-bottom: 20px;">
   <img src="https://github.com/eckim97/eckim97/blob/output/github-contribution-grid-snake.svg">
 </div>
 
-<div style="display: flex; justify-content: space-between;">
-  <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=eckim97&show_icons=true&theme=holi" width="49%" height="130%">
+<div style="display: flex; justify-content: space-between; margin-top: 20px;">
+  <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=eckim97&show_icons=true&theme=holi" width="49%" height="130%" style="margin-right: 10px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eckim97&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" width="49%" height="130%">
 </div>
