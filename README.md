@@ -26,7 +26,7 @@
   <img src="https://github.com/eckim97/eckim97/blob/output/github-contribution-grid-snake.svg">
 </div>
 
-<div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
-  <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=eckim97&show_icons=true&theme=holi" style="flex: 1; max-width: 49%; height: auto;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eckim97&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" style="flex: 1; max-width: 49%; height: auto;">
+<div style="display: flex; justify-content: space-between; margin-top: 20px; gap: 20px;">
+  <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=eckim97&show_icons=true&theme=holi" style="width: 49%; height: auto;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eckim97&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" style="width: 49%; height: auto;">
 </div>
